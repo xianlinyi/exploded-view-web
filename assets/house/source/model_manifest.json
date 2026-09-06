@@ -1,0 +1,41 @@
+{
+  "height_m": 2.75,
+  "external_wall_m": 0.2,
+  "partition_m": 0.1,
+  "coordinates": "image right +X, image up +Y",
+  "demolition": "Upper middle bedroom south boundary only, y=6 x=5.55..8.55; structural status unverified",
+  "cameras": [
+    "01_plan",
+    "02_axon",
+    "03_public_day",
+    "04_public_night",
+    "05_music",
+    "06_gaming",
+    "07_master",
+    "08_kitchen",
+    "09_walkin"
+  ],
+  "objects": 1866,
+  "kitchen_revision": "Exterior door x=8.85..9.75 at y=8.2; fridge x=8.98 y=6.52 facing east near living, per user correction",
+  "walkin_revision": {
+    "former_balcony_bounds_m": [
+      3.8,
+      6,
+      0,
+      2.5
+    ],
+    "gross_added_area_m2": 5.5,
+    "connection": "Master and existing north dressing area; former internal glazing removed",
+    "wardrobe_depth_m": 0.6,
+    "new_south_window_m": [
+      4.02,
+      5.72
+    ],
+    "status": "Concept enclosure and opening; structure and envelope unverified",
+    "aisle_at_carcass_m": 1.45,
+    "aisle_including_handles_m": 1.372
+  },
+  "stair_revision": "Shared stair flights and base removed; elevator context retained",
+  "source_image": "reference/floorplan.jpg",
+  "blender": "5.2.1 LTS"
+}

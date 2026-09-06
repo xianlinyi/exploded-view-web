@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>结构拆解 · Exploded View</title></head>
+<body>
+  <header><div><span class="eyebrow">INTERACTIVE STRUCTURE</span><h1>结构拆解实验室</h1></div><span class="badge">可复用示例 · 12 个零件</span></header>
+  <main>
+    <aside aria-label="零件目录"><h2>探索零件</h2><label>搜索<input id="search" type="search" placeholder="名称或 ID" autocomplete="off"></label><div id="systems"></div><p id="count" aria-live="polite"></p><div id="results"></div></aside>
+    <section class="viewer" aria-label="3D 查看器"><div id="stage"></div><p id="status" role="status">正在准备示例</p><div class="camera-tools"><button id="front">正视</button><button id="quarter">斜视</button><button id="rotate" aria-pressed="false">自动旋转</button><button id="fit">适配视图</button></div><p id="hint">拖动旋转 · 滚轮缩放 · 点击查看</p></section>
+    <aside id="inspector" aria-label="零件详情"><h2 id="part-name">选择一个零件</h2><p id="part-description">从目录或画面中选择。示例为程序生成的装配结构，用于验证交互。</p><button id="isolate" disabled>仅查看所选</button><button id="clear" disabled>清除选择</button></aside>
+  </main>
+  <footer><label for="explode">结构展开 <output id="amount">0%</output></label><input id="explode" type="range" min="0" max="100" step="1" value="0"><div class="stops"><button data-amount="0">组装 0%</button><button data-amount="45">分组 45%</button><button data-amount="100">清单 100%</button></div><button id="reset">重置全部</button></footer>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

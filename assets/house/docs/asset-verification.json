@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "meshes": 1296,
+  "furniture": 77,
+  "rooms": 10,
+  "materials": 38,
+  "embeddedImages": 26,
+  "glbBytes": 18189252,
+  "sourceHashVerified": true,
+  "sourceSHA256": "33d6f5b507f135c224e24ff2582e5814841d737baa13aa8ddbe96120a13afebf"
+}

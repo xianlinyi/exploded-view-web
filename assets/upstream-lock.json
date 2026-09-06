@@ -1,0 +1,511 @@
+{
+  "repository": "https://github.com/ashemag/human-atlas",
+  "commit": "7a383d3ee2759e3ddf157c704fb8814fd0c50bcb",
+  "verifiedAt": "2026-09-06",
+  "modelFiles": [
+    {
+      "path": "public/models/body-0.bin",
+      "gitBlob": "21d12e12e04dd9bae99abf337fab82470e40bd78",
+      "bytes": 4019496
+    },
+    {
+      "path": "public/models/body-0.bin.gz",
+      "gitBlob": "08481964dee1181d566cdbcd360941596a254838",
+      "bytes": 2257262
+    },
+    {
+      "path": "public/models/body-1.bin",
+      "gitBlob": "b2a0a781478031ca966f57d73d6bd0b8652edcf7",
+      "bytes": 4526484
+    },
+    {
+      "path": "public/models/body-1.bin.gz",
+      "gitBlob": "09a73c0ef4bfe2d675b63978e258887196e6ba44",
+      "bytes": 2299850
+    },
+    {
+      "path": "public/models/body-10.bin",
+      "gitBlob": "c6116c8705b4234b54ebb60a0dd376682da9cf8e",
+      "bytes": 4046108
+    },
+    {
+      "path": "public/models/body-10.bin.gz",
+      "gitBlob": "92967c609a1b3f55c482901df965dda562e1e7b3",
+      "bytes": 2249282
+    },
+    {
+      "path": "public/models/body-11.bin",
+      "gitBlob": "f437a61bfd8c976108abf3e3a607784af3eb3575",
+      "bytes": 4037528
+    },
+    {
+      "path": "public/models/body-11.bin.gz",
+      "gitBlob": "6a45de9e5b3e0c1b6bb43d46efef1678dce6fd5b",
+      "bytes": 2319620
+    },
+    {
+      "path": "public/models/body-12.bin",
+      "gitBlob": "88e823456d067922f9c27c2405a69fe983eef68b",
+      "bytes": 4000292
+    },
+    {
+      "path": "public/models/body-12.bin.gz",
+      "gitBlob": "9fea6c1c2534a4cc7fecda0e872a5f837d61f70d",
+      "bytes": 2268977
+    },
+    {
+      "path": "public/models/body-13.bin",
+      "gitBlob": "24a9953b6677cf07cd6beea9f221a0690c6efa44",
+      "bytes": 4004548
+    },
+    {
+      "path": "public/models/body-13.bin.gz",
+      "gitBlob": "b25f1411d787caf359ec889f6660ac78096daa94",
+      "bytes": 2165080
+    },
+    {
+      "path": "public/models/body-14.bin",
+      "gitBlob": "a9562c717b3509a6f9264a988be0ab8e0142f9b4",
+      "bytes": 2300452
+    },
+    {
+      "path": "public/models/body-14.bin.gz",
+      "gitBlob": "48b6ddda111212b7f2cc00fc8f91014c4144eb05",
+      "bytes": 1344908
+    },
+    {
+      "path": "public/models/body-2.bin",
+      "gitBlob": "796cf2dc1f686456a6c9ccca374c5a3403f12e40",
+      "bytes": 4438056
+    },
+    {
+      "path": "public/models/body-2.bin.gz",
+      "gitBlob": "9b12f4f21238e9cf0d796d3e3581cd1a4a1dbffd",
+      "bytes": 2312911
+    },
+    {
+      "path": "public/models/body-3.bin",
+      "gitBlob": "368a55dd62c761caf2aee044439e9563b500f276",
+      "bytes": 4041436
+    },
+    {
+      "path": "public/models/body-3.bin.gz",
+      "gitBlob": "2621a4b5e06a9186d5437fa9e5679ccae5feb382",
+      "bytes": 2079806
+    },
+    {
+      "path": "public/models/body-4.bin",
+      "gitBlob": "92dad79d99d03d5bd0778203259a43e1f5583097",
+      "bytes": 4020544
+    },
+    {
+      "path": "public/models/body-4.bin.gz",
+      "gitBlob": "54f266aad3b88ca1d9adcc25412be10a3f5a9a82",
+      "bytes": 2075177
+    },
+    {
+      "path": "public/models/body-5.bin",
+      "gitBlob": "833e5cd9852f995db00382b4b582fb177da13e5f",
+      "bytes": 4022564
+    },
+    {
+      "path": "public/models/body-5.bin.gz",
+      "gitBlob": "83224e6ef11d454e9df2099ba5220878c98ae8a4",
+      "bytes": 2176648
+    },
+    {
+      "path": "public/models/body-6.bin",
+      "gitBlob": "b200756a91d61c43139fb3786ed1d95584b2cac2",
+      "bytes": 4035584
+    },
+    {
+      "path": "public/models/body-6.bin.gz",
+      "gitBlob": "61c5a9d76e89cc215f384a74ebac17949ba017a0",
+      "bytes": 2378951
+    },
+    {
+      "path": "public/models/body-7.bin",
+      "gitBlob": "d4bb70330113d6ea66faf12eaa6230fdf26b41e1",
+      "bytes": 4006940
+    },
+    {
+      "path": "public/models/body-7.bin.gz",
+      "gitBlob": "2b8d9cb8c75f69bd95d7fc25c4427a199a03bf71",
+      "bytes": 2385857
+    },
+    {
+      "path": "public/models/body-8.bin",
+      "gitBlob": "0d33357f8ea6e9a50df28bc2bb6eccb9dd23c89b",
+      "bytes": 4028452
+    },
+    {
+      "path": "public/models/body-8.bin.gz",
+      "gitBlob": "2fd5d98e32bd45cdedff23e7a92048c0f31a4d3a",
+      "bytes": 2382534
+    },
+    {
+      "path": "public/models/body-9.bin",
+      "gitBlob": "cca9f569eea7ec8cda5cd00f7f9ac2b36d278d68",
+      "bytes": 4018260
+    },
+    {
+      "path": "public/models/body-9.bin.gz",
+      "gitBlob": "c6416c53098ccfe4ca488c3782e74df6137a26e4",
+      "bytes": 2259266
+    }
+  ],
+  "sourceFiles": [
+    {
+      "path": ".gitignore",
+      "gitBlob": "c95544b79fbb161bd84ed8a390968de125141e19"
+    },
+    {
+      "path": "LICENSE",
+      "gitBlob": "11d941f1b306e0b093011a4c1399b9ecf535d1b9"
+    },
+    {
+      "path": "README.md",
+      "gitBlob": "a2f27306919e60414df4ae40269a98e56034be9c"
+    },
+    {
+      "path": "app/agent-tools.ts",
+      "gitBlob": "4443413a018acaf95c1c67f3593ac9327fd4283d"
+    },
+    {
+      "path": "app/anatomy.ts",
+      "gitBlob": "031d084849cada02be0fabb5a5f041c858fd3287"
+    },
+    {
+      "path": "app/explosion-layout.ts",
+      "gitBlob": "2e3f16c9e7da22e8972008bdaaec14be5317b2e7"
+    },
+    {
+      "path": "app/globals.css",
+      "gitBlob": "91cbe15731489bdb327dcb6a372f846a6de91ee7"
+    },
+    {
+      "path": "app/model-download.ts",
+      "gitBlob": "d5e45752fea94b213579878123ceaa09d3218688"
+    },
+    {
+      "path": "app/page.tsx",
+      "gitBlob": "5b59ba143e93710021f2ddf75f0ae465d38fd8a4"
+    },
+    {
+      "path": "app/pointer-tap.ts",
+      "gitBlob": "e1c84f673969f449ff8ea1ee179caff235214ecc"
+    },
+    {
+      "path": "app/scene.tsx",
+      "gitBlob": "553f1db7e23b872cdffcec01fba8e59b88053551"
+    },
+    {
+      "path": "components/ui/accordion.tsx",
+      "gitBlob": "9daf7bf384eb45cd301aa7e763e58d1f5982f9eb"
+    },
+    {
+      "path": "components/ui/alert-dialog.tsx",
+      "gitBlob": "46d9eb7fdc763bf18525e1ede3d1c432823c839a"
+    },
+    {
+      "path": "components/ui/alert.tsx",
+      "gitBlob": "abe04d372d096421950d55c6ef433a57416d006f"
+    },
+    {
+      "path": "components/ui/aspect-ratio.tsx",
+      "gitBlob": "95d97f8e2aa1c888554dbe9cccc872889c459384"
+    },
+    {
+      "path": "components/ui/attachment.tsx",
+      "gitBlob": "108ab4da821dc9d71ddb31a1f8a7e36f64e6145a"
+    },
+    {
+      "path": "components/ui/avatar.tsx",
+      "gitBlob": "789a0141c15b84ff42b38745d1398f25d9704ba0"
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "gitBlob": "8e59eb1bea89889c94aa49f7e81a3666f26baed6"
+    },
+    {
+      "path": "components/ui/breadcrumb.tsx",
+      "gitBlob": "6f51e3fa8f46e285f0fe628218aed9b3e74eaddf"
+    },
+    {
+      "path": "components/ui/bubble.tsx",
+      "gitBlob": "61f20300a72af700cf633b934320ce7676d10c07"
+    },
+    {
+      "path": "components/ui/button-group.tsx",
+      "gitBlob": "8f8c2d29515c8972244dc11e83fb5bd34885a9f2"
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "gitBlob": "7a8a32cec98c0bc1c0b1dfef22a58a35783faa73"
+    },
+    {
+      "path": "components/ui/calendar.tsx",
+      "gitBlob": "5d1cb82024a0a5e0d3ecfc3ae7a04188c50c03e3"
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "gitBlob": "ae29aa249b47118ccc8cc3e8586491dd876e1af7"
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "gitBlob": "f7e33307db5731a94324e497f79265c044e2a459"
+    },
+    {
+      "path": "components/ui/chart.tsx",
+      "gitBlob": "0680cf0ec1564a4a007e409cc8a1beecf138e100"
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "gitBlob": "990dbaf0675457cde8da3ae05ba701caf5cb8184"
+    },
+    {
+      "path": "components/ui/collapsible.tsx",
+      "gitBlob": "93a385188279f8fef89b26171cd11575f5513fbc"
+    },
+    {
+      "path": "components/ui/combobox.tsx",
+      "gitBlob": "61db9411ba6f8cc9afcf4f5efdf85787ca984aac"
+    },
+    {
+      "path": "components/ui/command.tsx",
+      "gitBlob": "af126f40ebefee93b580c9808786171656a0cd7f"
+    },
+    {
+      "path": "components/ui/context-menu.tsx",
+      "gitBlob": "402a3a347803f3b2ed4adf37d3932bf2da9d6436"
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "gitBlob": "019e0eb85b7a311fb9d7fab8e616912823020245"
+    },
+    {
+      "path": "components/ui/direction.tsx",
+      "gitBlob": "78363f9698f16549b332c86adc0052f85afc37bb"
+    },
+    {
+      "path": "components/ui/drawer.tsx",
+      "gitBlob": "d090d7d20a49fa1195322374c5d4d282834b3fb5"
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "gitBlob": "1cfacf7b982db6b7b54b1f230085780f1903884e"
+    },
+    {
+      "path": "components/ui/empty.tsx",
+      "gitBlob": "cb8afd221481cc656115f08c70dfb9d9682c5156"
+    },
+    {
+      "path": "components/ui/field.tsx",
+      "gitBlob": "48f2ab807eb2c2c040f914a620306818e229eb6b"
+    },
+    {
+      "path": "components/ui/hover-card.tsx",
+      "gitBlob": "460ac83f75fe261cd15da3ae75fe1406a0b78ae6"
+    },
+    {
+      "path": "components/ui/input-group.tsx",
+      "gitBlob": "4157002dc6d7733e97585a33e914ef0cb3a59897"
+    },
+    {
+      "path": "components/ui/input-otp.tsx",
+      "gitBlob": "95fa9ead83012e47ae3280ed7e0b58eaba7164f8"
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "gitBlob": "70c195a90602ff71ea730884e96dae029b87fbd3"
+    },
+    {
+      "path": "components/ui/item.tsx",
+      "gitBlob": "525610d8f9c17d24263b4d1b09a3e6e835cfa177"
+    },
+    {
+      "path": "components/ui/kbd.tsx",
+      "gitBlob": "fd4e9b15dd1fd780be83c723b05ff93eac44bb1c"
+    },
+    {
+      "path": "components/ui/label.tsx",
+      "gitBlob": "6d13a34c4faa914cd82b61356a81381a125855b4"
+    },
+    {
+      "path": "components/ui/marker.tsx",
+      "gitBlob": "031db961e8d6ad47a44e0e8cdbf32a8c9fc8b221"
+    },
+    {
+      "path": "components/ui/menubar.tsx",
+      "gitBlob": "e9ac00cab3d7812f4c154e185d0f1856db86ff40"
+    },
+    {
+      "path": "components/ui/message-scroller.tsx",
+      "gitBlob": "b9ea776c2171433c9b4c79b6aaa9526eb5cf1805"
+    },
+    {
+      "path": "components/ui/message.tsx",
+      "gitBlob": "499a480ce23e3f80b7cfd40d0fe710b35e778cd4"
+    },
+    {
+      "path": "components/ui/native-select.tsx",
+      "gitBlob": "aa8bb13bbc6d6e5edbbb3df41abfdd84327819d9"
+    },
+    {
+      "path": "components/ui/navigation-menu.tsx",
+      "gitBlob": "17fe02df91e9c62731fec1bf116d47ac106e15c1"
+    },
+    {
+      "path": "components/ui/pagination.tsx",
+      "gitBlob": "0fbfd17ed84cfb9e37d8bbeab0d5acc02e1fee86"
+    },
+    {
+      "path": "components/ui/popover.tsx",
+      "gitBlob": "cfe07945daa473f5763d5e1c4805b2b75f3bd2ee"
+    },
+    {
+      "path": "components/ui/progress.tsx",
+      "gitBlob": "72c9482fa2af485839990f5052d1b542bbd36f04"
+    },
+    {
+      "path": "components/ui/radio-group.tsx",
+      "gitBlob": "37ee5cf4cc4896b259bd9ace9b511495e2875e2a"
+    },
+    {
+      "path": "components/ui/resizable.tsx",
+      "gitBlob": "65aed498983cf0822309fc7c261a56b62844db84"
+    },
+    {
+      "path": "components/ui/scroll-area.tsx",
+      "gitBlob": "1c904e17e080339bcfb6ae6799c514855c015971"
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "gitBlob": "a2b051a2dc3aa7c63ed8e67a3bc27f182444cdd1"
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "gitBlob": "3a48aabdcfae61c4b8bddd9e38cf8a38c5b1c4fd"
+    },
+    {
+      "path": "components/ui/sheet.tsx",
+      "gitBlob": "ab7ca4710d48b14c8eefdffc49654048d10b58dd"
+    },
+    {
+      "path": "components/ui/sidebar.tsx",
+      "gitBlob": "530b86ce9bac125704ea430b6b82a6afc80b8a7f"
+    },
+    {
+      "path": "components/ui/skeleton.tsx",
+      "gitBlob": "69c99b8d7804b5b0cd223487ee88ac4593323ed9"
+    },
+    {
+      "path": "components/ui/slider.tsx",
+      "gitBlob": "c810a08fbfb07622c4fd229159872bf6adffb69b"
+    },
+    {
+      "path": "components/ui/spinner.tsx",
+      "gitBlob": "77f8d64b541f9372ee89d26bd4a89f07f5859e3a"
+    },
+    {
+      "path": "components/ui/switch.tsx",
+      "gitBlob": "e07aee007daa9bf289ccc919ef83e1119d395d13"
+    },
+    {
+      "path": "components/ui/table.tsx",
+      "gitBlob": "7ca5b51da900c8bba9f95cd920a2624a1ef29e12"
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "gitBlob": "636e66bb7521a2e421b45d93e4374e31f3653c68"
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "gitBlob": "46eab5e3f748303a5d007cea9f379098a2b61276"
+    },
+    {
+      "path": "components/ui/toast.tsx",
+      "gitBlob": "4a65d1b6f57f42d06b4fa28c43d022901c327a7e"
+    },
+    {
+      "path": "components/ui/toggle-group.tsx",
+      "gitBlob": "a6894ff7e295b355c87097d7e99c5a34393f0993"
+    },
+    {
+      "path": "components/ui/toggle.tsx",
+      "gitBlob": "60e82e4c004b56c31f2c56e7e4f43a600dead47d"
+    },
+    {
+      "path": "components/ui/tooltip.tsx",
+      "gitBlob": "a0a56847e2c260a837ff73d80e94c201f58bad5b"
+    },
+    {
+      "path": "hooks/use-mobile.ts",
+      "gitBlob": "821f8ff4aa7d77756564f8aecda940d02f2a6c99"
+    },
+    {
+      "path": "lib/utils.ts",
+      "gitBlob": "2819a830d242f11fda91c4e8951794ab815cec77"
+    },
+    {
+      "path": "package-lock.json",
+      "gitBlob": "78a8a96ebf2d7c5826fc8713a8255725bacf758a"
+    },
+    {
+      "path": "package.json",
+      "gitBlob": "c6a8a7b04dcfc6076e151d9d2abb7fb63dc5d590"
+    },
+    {
+      "path": "public/ATTRIBUTION.md",
+      "gitBlob": "3f3109904758f7d2ee6563e16899265afdb63a19"
+    },
+    {
+      "path": "public/favicon.svg",
+      "gitBlob": "b47b1db6dfb5571a2d40718754875c12238ffff5"
+    },
+    {
+      "path": "public/models/atlas.json",
+      "gitBlob": "0f81b5621479a0c0548f4683c316f33bd4d6545b"
+    },
+    {
+      "path": "scripts/compress-models.mjs",
+      "gitBlob": "2aafcdcf4d5f6671f93a97d3461d1f08a08c847a"
+    },
+    {
+      "path": "scripts/convert-anatomy.py",
+      "gitBlob": "d204e68362c448dd40fce7389cb25a77d1a9d9ef"
+    },
+    {
+      "path": "scripts/optimize-anatomy.mjs",
+      "gitBlob": "d29af87770b844dca73f5b967cdbce119482e021"
+    },
+    {
+      "path": "scripts/validate-atlas.mjs",
+      "gitBlob": "bbd5b4d0599eee9df36fe487d200a35648ae020a"
+    },
+    {
+      "path": "scripts/validate-interactions.mjs",
+      "gitBlob": "99cfcdbe9f015be71a0c0eac9cc03f5e53c687f6"
+    },
+    {
+      "path": "tsconfig.json",
+      "gitBlob": "f2ad1bf0721679d49555964b75d151438e9199a1"
+    },
+    {
+      "path": "vercel.json",
+      "gitBlob": "2915f1344ecf360e9d7cf04a50625cf98ee92f1c"
+    },
+    {
+      "path": "vite.config.ts",
+      "gitBlob": "b6dc3004109d201d95a9bdc86a67f73ec02debc5"
+    },
+    {
+      "path": "web/index.html",
+      "gitBlob": "5f2ae6ff9124b47095b71c5fc414a7f4c8504bbc"
+    },
+    {
+      "path": "web/main.tsx",
+      "gitBlob": "b2bf6ed84d718f9fc4186fb51951355c017f05c7"
+    }
+  ]
+}

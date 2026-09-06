@@ -1,0 +1,4 @@
+interface:
+  display_name: "结构爆炸与零件拆解网页"
+  short_description: "默认用房屋模型生成可运行的结构拆解网页，也支持通用模板与 Human Atlas 复刻"
+  default_prompt: "使用 $exploded-view-web 创建一个可运行的结构拆解网页；如果我没有提供模型，默认使用技能包内的房屋模型，否则先复用模板再接入我的模型并完成验收。"
